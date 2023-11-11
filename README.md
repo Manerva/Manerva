@@ -16,4 +16,4 @@
 ![](https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manerva&theme=midnight-purple&hide_border=true&bg_color=0d111700)](https://github.com/Manerva)
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manerva&theme=midnight-purple&hide_border=true&bg_color=0d111700)](https://github.com/Manerva) ![Discord Presence](https://lanyard.cnrad.dev/api/579408513722482728)
