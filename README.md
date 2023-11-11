@@ -16,9 +16,7 @@
 ![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
-![Discord Presence](https://lanyard.cnrad.dev/api/544898188197494805)
+![Discord Presence](https://lanyard.cnrad.dev/api/579408513722482728)
 
-
-[![stats](https://github-readme-stats.vercel.app/api?username=Manerva&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple&hide_border=true&bg_color=0d111700)](https://github.com/anuraghazra/github-readme-stats)
 
 [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manerva&theme=midnight-purple&hide_border=true&bg_color=0d111700)](https://github.com/Manerva)
