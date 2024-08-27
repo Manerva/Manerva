@@ -1,8 +1,8 @@
-# **Hello,**
+**Hello,**
 
 I'm Nikolay designer and programmer.
 I do WEB development, creating designs in various versions, writing scripts, administering networks and computer systems. I’m also confidently learning mobile modification.
-
+#
 
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
