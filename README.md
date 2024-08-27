@@ -1,4 +1,4 @@
-**Hello,**
+### Hello,
 
 I'm Nikolay designer and programmer.
 I do WEB development, creating designs in various versions, writing scripts, administering networks and computer systems. I’m also confidently learning mobile modification.
