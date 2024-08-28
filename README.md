@@ -14,10 +14,7 @@ I do WEB development, creating designs in various versions, writing scripts, adm
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-
-![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![](https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ![Discord Presence](https://lanyard.cnrad.dev/api/579408513722482728) [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manerva&theme=midnight-purple&hide_border=true&bg_color=0d111700)](https://github.com/Manerva)
